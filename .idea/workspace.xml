@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92b13e1f-027f-4777-a00e-122331534364" name="Default Changelist" comment="" />
+    <list default="true" id="92b13e1f-027f-4777-a00e-122331534364" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -111,6 +121,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1cRjb3uQKzmbqy8NbbtdyAL8F2X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -156,7 +167,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590498368325</updated>
-      <workItem from="1590498372491" duration="4186000" />
+      <workItem from="1590498372491" duration="4945000" />
+      <workItem from="1591185914468" duration="672000" />
+      <workItem from="1592477812006" duration="7306000" />
     </task>
     <servers />
   </component>
@@ -164,13 +177,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="397" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1590498371428">
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1592477842110">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1590498371428" />
-    <state x="564" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1590503113665">
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1592477842110" />
+    <state x="564" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1592482257156">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="564" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1590503113665" />
+    <state x="564" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1592482257156" />
   </component>
 </project>
